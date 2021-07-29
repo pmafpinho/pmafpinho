@@ -2,7 +2,7 @@
 
 
 I'm currently working as a Mobile Developer & Web Front-end Developer.
-I have +5 years of experience in Front-end technologies and I will always try to learn new things, even outside the Front-end technologies (e.g. Back-end).
+I have +6 years of experience in Front-end technologies and I will always try to learn new things, even outside the Front-end technologies (e.g. Back-end).
 
 ## :rocket: Technical Skills
 
