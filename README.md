@@ -25,7 +25,7 @@ I have +6 years of experience in Front-end technologies and I will always try to
 ![react](https://img.shields.io/badge/-React-/?logoColor=white&color=blue&style=flat&logo=REACT)
 ![reactnative](https://img.shields.io/badge/-React%20Native-/?logoColor=white&color=3e9fb9&style=flat&logo=REACT)
 
-Learning Now:
+## 💻 Learning Now:
  
 ![swift](https://img.shields.io/badge/-Swift-/?logoColor=white&color=F05138&style=flat&logo=SWIFT)
 
