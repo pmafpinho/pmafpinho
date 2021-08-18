@@ -13,7 +13,7 @@ console.log(person.greeting + ',' + ' my name is ' + person.firstName +
 I'm currently working as a **Mobile Developer & Web Front-end Developer**.
 I have +6 years of experience in Front-end technologies and I will always try to learn new things, even outside the Front-end technologies (e.g. Back-end).
 
-### :rocket: Technical Skills
+### :rocket: Tech Stack
 
 ![htm](https://img.shields.io/badge/-HTML-/?logoColor=white&color=orange&style=for-the-badge&logo=HTML5)
 ![css3](https://img.shields.io/badge/-CSS-/?logoColor=white&color=blue&style=for-the-badge&logo=CSS3)
@@ -25,7 +25,7 @@ I have +6 years of experience in Front-end technologies and I will always try to
 ![react](https://img.shields.io/badge/-React-/?logoColor=white&color=blue&style=for-the-badge&logo=REACT)
 ![reactnative](https://img.shields.io/badge/-React%20Native-/?logoColor=white&color=3e9fb9&style=for-the-badge&logo=REACT)
 
-### 💻 Learning Now
+#### 💻 Learning
  
 ![swift](https://img.shields.io/badge/-Swift-/?logoColor=white&color=F05138&style=for-the-badge&logo=SWIFT)
 
