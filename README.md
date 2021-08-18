@@ -13,7 +13,7 @@ console.log(person.greeting + ',' + ' my name is ' + person.firstName +
 I'm currently working as a **Mobile Developer & Web Front-end Developer**.
 I have +6 years of experience in Front-end technologies and I will always try to learn new things, even outside the Front-end technologies (e.g. Back-end).
 
-## :rocket: Technical Skills
+### :rocket: Technical Skills
 
 ![htm](https://img.shields.io/badge/-HTML-/?logoColor=white&color=orange&style=for-the-badge&logo=HTML5)
 ![css3](https://img.shields.io/badge/-CSS-/?logoColor=white&color=blue&style=for-the-badge&logo=CSS3)
@@ -25,10 +25,10 @@ I have +6 years of experience in Front-end technologies and I will always try to
 ![react](https://img.shields.io/badge/-React-/?logoColor=white&color=blue&style=for-the-badge&logo=REACT)
 ![reactnative](https://img.shields.io/badge/-React%20Native-/?logoColor=white&color=3e9fb9&style=for-the-badge&logo=REACT)
 
-## 💻 Learning Now:
+### 💻 Learning Now
  
 ![swift](https://img.shields.io/badge/-Swift-/?logoColor=white&color=F05138&style=for-the-badge&logo=SWIFT)
 
-## :earth_americas: Social 
+#### :earth_americas: Find Me
 
 <a href="https://www.linkedin.com/in/pmafpinho/" target="_blank">![linkedin](https://img.shields.io/badge/-LinkedIn-/?logoColor=white&color=blue&style=for-the-badge&logo=LINKEDIN)</a>
