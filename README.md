@@ -1,5 +1,14 @@
-# ![](https://media-exp3.licdn.com/dms/image/C4E16AQFBAnw5rJvB9A/profile-displaybackgroundimage-shrink_350_1400/0/1625620634511?e=1631145600&v=beta&t=YR9Ysy9o7VfbfCXGPOZJ70M53VQVzVlt2DJjHkQf1pQ)
+```javascript
+const person = {
+ greeting: 'Hi',
+ firstName: 'Paulo',
+ lastName: 'Pinho',
+ job: 'Mobile & Front-end Developer
+}
 
+console.log(person.greeting + ',' + ' my name is ' + person.firstName +
+' ' + person.lastName + ' and I\'m a ' + person.job);
+```
 
 I'm currently working as a Mobile Developer & Web Front-end Developer.
 I have +6 years of experience in Front-end technologies and I will always try to learn new things, even outside the Front-end technologies (e.g. Back-end).
