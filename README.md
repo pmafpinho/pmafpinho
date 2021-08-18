@@ -10,7 +10,7 @@ console.log(person.greeting + ',' + ' my name is ' + person.firstName +
 ' ' + person.lastName + ' and I\'m a ' + person.job);
 ```
 
-I'm currently working as a Mobile Developer & Web Front-end Developer.
+I'm currently working as a **Mobile Developer & Web Front-end Developer**.
 I have +6 years of experience in Front-end technologies and I will always try to learn new things, even outside the Front-end technologies (e.g. Back-end).
 
 ## :rocket: Technical Skills
